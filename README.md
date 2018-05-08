@@ -1,2 +1,2 @@
-#My First App
+#MyFirstApp
 This is my first app.
